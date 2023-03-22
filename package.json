@@ -3,7 +3,7 @@
   "displayName": "Minute Bugrits",
   "publisher": "jeooo",
   "description": "A Minute Burger-based VSCode Theme",
-  "version": "0.0.3vs",
+  "version": "0.0.3",
   "icon": "images/minute-bugrits-icon.png",
   "engines": {
     "vscode": "^1.76.0"
