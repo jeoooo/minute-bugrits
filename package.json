@@ -1,8 +1,9 @@
 {
   "name": "minute-bugrits",
   "displayName": "Minute Bugrits",
+  "publisher": "jeooo",
   "description": "A Minute Burger-based VSCode Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -17,5 +18,16 @@
         "path": "./themes/Minute Bugrits-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeocarlolubao/minute-bugrits.git"
+  },
+  "iconThemes": [
+    {
+      "id": "minute-bugrits",
+      "label": "Minute Bugrits Icon",
+      "path": "https://i.imgur.com/qa8Ols1.png"
+    }
+  ]
 }

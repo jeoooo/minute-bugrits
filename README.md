@@ -6,6 +6,16 @@ A [Minute Burger](https://www.minuteburger.com/)-based VSCode Color Theme
 
 Big Thanks to [Fakedonald's by Samuele Pignone](https://marketplace.visualstudio.com/items?itemName=SamuelePignone.fakedonalds) for the inspiration 🎉🎉🙇‍♂️
 
+![](https://i.imgur.com/rMX8eGO.jpg)
+
+# Changelog
+---
+
+For extension changes, Please see [CHANGELOG.md](CHANGELOG.md).
+
+# Contributing
+---
+
 <!-- ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
